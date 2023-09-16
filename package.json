@@ -1,0 +1,21 @@
+{
+  "name": "@rs-box/ez-changelog",
+  "version": "1.0.0",
+  "description": "Script to generate CHANGELOG.md file according conventional commits specifications",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rstanziale/ez-changelog.git"
+  },
+  "keywords": [
+    "javascript",
+    "changelog",
+    "conventional-commits",
+    "git"
+  ],
+  "scripts": {
+    "generate-changelog": "node generate-changelog.js https://github.com/rstanziale/ez-changelog"
+  },
+  "main": "generate-changelog.js",
+  "author": "Roberto B. Stanziale",
+  "license": "MIT"
+}
