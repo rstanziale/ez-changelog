@@ -10,6 +10,8 @@ Before running it, you need to take the script file and move it to the git direc
 
 After execution, this script will create a `CHANGELOG.md` file containing the changes of your project.
 
+The `_CHANGELOG.md` file in this repository is an example (without links) of what the script generates.
+
 ## How to execute it
 
 It is necessary to run the command:
